@@ -1,12 +1,8 @@
-@font-face {
-  font-family: Bluberry;
-  src: url(./blueberry/Blueberry.ttf) format("truetype");
-}
 .titulo {
   font-family: Bluberry;
   color: white;
   font-size: 70px;
-  align-self: center;
+  text-align: center;
 }
 
 .cuerpo {
